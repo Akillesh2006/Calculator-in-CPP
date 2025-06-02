@@ -1,0 +1,51 @@
+💼 Project Title: Currency Converter Using C++
+
+ 🎯 Project Objective
+
+To develop a simple currency converter that allows users to convert amounts from one currency to another.
+
+To improve understanding of basic C++ concepts like variables, input/output, and control structures.
+
+🧩 Key Features
+
+1. User-Friendly Console Interface – Easy-to-follow prompts for currency conversion.
+
+
+2. Fixed Exchange Rates – Uses predefined conversion rates for accurate calculations.
+
+
+3. Multiple Currency Options – Supports conversion from USD to INR, EUR, GBP, and JPY.
+
+
+4. Formatted Output – Displays currency symbols and two decimal places for readability.
+
+
+🧠 Concepts Used
+
+Input/Output using cin and cout
+
+Control Structures: switch-case
+
+Constants and Arithmetic operations
+
+iomanip for number formatting
+
+🚀 Possible Enhancements
+
+Two-way conversion (e.g., INR to USD).
+
+Menu-driven interface with looping.
+
+Fetching real-time exchange rates using APIs.
+
+Adding a GUI interface using Qt or SFML.
+
+Logging conversions to a file for records/history.
+
+📚 What I Learned
+
+How to take user input and validate options.
+
+How to use constants and formatting in real applications.
+
+How to build a real-world utility tool using basic C++.
