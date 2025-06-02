@@ -1,51 +1,51 @@
-💼 Project Title: Currency Converter Using C++
+🔑 Project Objectives
 
- 🎯 Project Objective
+To develop a basic calculator using C++.
 
-To develop a simple currency converter that allows users to convert amounts from one currency to another.
+To understand and apply fundamental programming concepts like variables, conditionals, switch-case, and user input/output.
 
-To improve understanding of basic C++ concepts like variables, input/output, and control structures.
+To perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-🧩 Key Features
+🛠️ Key Features
 
-1. User-Friendly Console Interface – Easy-to-follow prompts for currency conversion.
-
-
-2. Fixed Exchange Rates – Uses predefined conversion rates for accurate calculations.
+1. User Input Handling – Takes input from the user for numbers and operation type.
 
 
-3. Multiple Currency Options – Supports conversion from USD to INR, EUR, GBP, and JPY.
+2. Arithmetic Operations – Supports +, -, *, and /.
 
 
-4. Formatted Output – Displays currency symbols and two decimal places for readability.
+3. Input Validation – Handles division by zero error gracefully.
 
 
-🧠 Concepts Used
+4. Clear Output – Displays accurate results in a user-friendly format.
+
+
+5. Modular Design (optional) – Can be extended using functions for each operation.
+
+📚 Concepts Used
 
 Input/Output using cin and cout
 
-Control Structures: switch-case
+Conditional Statements (switch-case)
 
-Constants and Arithmetic operations
+Basic Data Types (double, char)
 
-iomanip for number formatting
+Error Handling (e.g., division by zero)
 
-🚀 Possible Enhancements
+💡 Possible Enhancements
 
-Two-way conversion (e.g., INR to USD).
+Add a loop to perform multiple calculations until the user exits.
 
-Menu-driven interface with looping.
+Add advanced operations like modulus, power, and square root.
 
-Fetching real-time exchange rates using APIs.
+Convert into a GUI app using libraries like Qt or GTK.
 
-Adding a GUI interface using Qt or SFML.
+Implement using Object-Oriented Programming (OOP) concepts.
 
-Logging conversions to a file for records/history.
+🧠 What I Learned
 
-📚 What I Learned
+How to use C++ syntax for real-world applications.
 
-How to take user input and validate options.
+How to handle user input and basic error-checking.
 
-How to use constants and formatting in real applications.
-
-How to build a real-world utility tool using basic C++.
+How to structure a console application.
